@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706037831 source:c:\c\tpexam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
